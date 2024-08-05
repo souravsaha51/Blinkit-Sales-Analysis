@@ -5,14 +5,8 @@
 The project integrated various data sources and used a range of visualizations to present insights.</p>
 
 <h1><a name="projectobjectives">Project Objectives💡</a></h1>
-<p>To leverage comprehensive data analysis and visualization from the sales dashboard project at Blinkit:</p>
-<ul>
-  <li>Understanding Sales by Region</li>
-  <li>Analyzing Sales and Profit by City and State</li>
-  <li> Profiling Profit Over Time</li>
-  <li>Segmenting Sales Analysis</li>
-  <li>Comprehensive Overview</li>
-</ul>
+<p>Develop a detailed Power BI dashboard to visualize and analyze key metrics, optimizing business strategies with actionable insights.</p>
+
 
 # 🛠️ Skills showcased in this Project
 

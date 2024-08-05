@@ -17,8 +17,8 @@ The project integrated various data sources and used a range of visualizations t
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul><li>Tool used🛠️: Power BI</li>
 <li> Data set used: <a href="https://github.com/souravsaha51/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx">
-         <img src=" Superstore Dataset" alt=""> Superstore Dataset</a></li></ul>
+         <img src=" Superstore Dataset" alt=""> Blinkit Dataset</a></li></ul>
 <p>This Power BI project employs a diverse range of visualizations, including bar charts, slicers, line charts, pie charts, tables, and cards. Each visualization is thoughtfully chosen to represent data in the most informative and visually engaging manner.</p>
 
 <h1><a name="conclusion">Conclusion</a></h1>
-<p>.</p>
+<p>Working on this sales dashboard project for Blinkit significantly enhanced my data analysis and visualization skills. Delving into large datasets helped improve my statistical knowledge and honed my ability to interpret and derive meaningful insights.</p>

@@ -4,14 +4,21 @@
 <p>The Blinkit Data Analysis project using Power BI aimed to improve decision-making by analyzing key aspects of the business, such as sales performance, customer behaviour, inventory management, and delivery efficiency.
 The project integrated various data sources and used a range of visualizations to present insights.</p>
 
-# 🛠️ Key Steps
+# 🛠️ Skills showcased in this Project
 
-Data Collection:
-Gathered data from various reliable sources to ensure a thorough coverage of sales information.
+- Data Extraction
+- Data Cleaning
+- Data Transformation
+- Data Visualization
 
-Data Loading and Cleaning:
-Imported the collected data into Power BI.
-Cleaned the data by: Removing unnecessary columns and duplicates. Handling missing values. Changing data types as needed.
 
-Data Analysis:
-Used DAX functions, measures, and calculated columns for detailed analysis.
+<h1><a name='dashboard'>Dashboard</a></h1>
+<img width="900" alt="Coding" src="https://github.com/souravsaha51/Blinkit-Sales-Analysis/blob/main/Dashboard.png">
+<h1><a name="visualizationtools">Visualization Tools</a></h1>
+<ul><li>Tool used🛠️: Power BI</li>
+<li> Data set used: <a href="https://github.com/souravsaha51/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx">
+         <img src=" Superstore Dataset" alt=""> Superstore Dataset</a></li></ul>
+<p>This Power BI project employs a diverse range of visualizations, including bar charts, slicers, line charts, pie charts, tables, and cards. Each visualization is thoughtfully chosen to represent data in the most informative and visually engaging manner.</p>
+
+<h1><a name="conclusion">Conclusion</a></h1>
+<p>.</p>

@@ -4,6 +4,16 @@
 <p>The Blinkit Data Analysis project using Power BI aimed to improve decision-making by analyzing key aspects of the business, such as sales performance, customer behaviour, inventory management, and delivery efficiency.
 The project integrated various data sources and used a range of visualizations to present insights.</p>
 
+<h1><a name="projectobjectives">Project Objectives💡</a></h1>
+<p>To leverage comprehensive data analysis and visualization from the sales dashboard project at Blinkit:</p>
+<ul>
+  <li>Understanding Sales by Region</li>
+  <li>Analyzing Sales and Profit by City and State</li>
+  <li> Profiling Profit Over Time</li>
+  <li>Segmenting Sales Analysis</li>
+  <li>Comprehensive Overview</li>
+</ul>
+
 # 🛠️ Skills showcased in this Project
 
 - Data Collection
